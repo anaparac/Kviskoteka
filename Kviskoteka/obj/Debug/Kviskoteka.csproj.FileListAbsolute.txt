@@ -1,0 +1,197 @@
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\anparac\Desktop\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Paula\Downloads\Kviskoteka2\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\pavujas\Desktop\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Petra\Downloads\Kviskoteka4\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Petra\Downloads\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v3\Kviskoteka_igraibaza\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Petra\Downloads\Sara\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v5\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\AnaP\Desktop\kvi\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v8_1\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Sara\Downloads\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\AnaP\Desktop\Kviskoteka_v8_1 - Copy\Kviskoteka_v2.1\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\AnaP\Desktop\Kvisko\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\anparac\Desktop\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.Administrator.resources
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.FormScore.resources
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.FormSettings.resources
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.cache
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Paula\Desktop\Kviskozadnja\Kvisko_najnovija\Kviskoteka\obj\Debug\Kviskoteka.csprojAssemblyReference.cache

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet" targetNamespace="http://tempuri.org/DataSet.xsd" xmlns:mstns="http://tempuri.org/DataSet.xsd" xmlns="http://tempuri.org/DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet" msprop:Generator_UserDSName="DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ABCpitalica" msprop:Generator_TableClassName="ABCpitalicaDataTable" msprop:Generator_TableVarName="tableABCpitalica" msprop:Generator_RowChangedName="ABCpitalicaRowChanged" msprop:Generator_TablePropName="ABCpitalica" msprop:Generator_RowDeletingName="ABCpitalicaRowDeleting" msprop:Generator_RowChangingName="ABCpitalicaRowChanging" msprop:Generator_RowEvHandlerName="ABCpitalicaRowChangeEventHandler" msprop:Generator_RowDeletedName="ABCpitalicaRowDeleted" msprop:Generator_RowClassName="ABCpitalicaRow" msprop:Generator_UserTableName="ABCpitalica" msprop:Generator_RowEvArgName="ABCpitalicaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="pitanje" msprop:Generator_ColumnVarNameInTable="columnpitanje" msprop:Generator_ColumnPropNameInRow="pitanje" msprop:Generator_ColumnPropNameInTable="pitanjeColumn" msprop:Generator_UserColumnName="pitanje" type="xs:string" minOccurs="0" />
+              <xs:element name="opcija1" msprop:Generator_ColumnVarNameInTable="columnopcija1" msprop:Generator_ColumnPropNameInRow="opcija1" msprop:Generator_ColumnPropNameInTable="opcija1Column" msprop:Generator_UserColumnName="opcija1" type="xs:string" minOccurs="0" />
+              <xs:element name="opcija2" msprop:Generator_ColumnVarNameInTable="columnopcija2" msprop:Generator_ColumnPropNameInRow="opcija2" msprop:Generator_ColumnPropNameInTable="opcija2Column" msprop:Generator_UserColumnName="opcija2" type="xs:string" minOccurs="0" />
+              <xs:element name="opcija3" msprop:Generator_ColumnVarNameInTable="columnopcija3" msprop:Generator_ColumnPropNameInRow="opcija3" msprop:Generator_ColumnPropNameInTable="opcija3Column" msprop:Generator_UserColumnName="opcija3" type="xs:string" minOccurs="0" />
+              <xs:element name="odgovor" msprop:Generator_ColumnVarNameInTable="columnodgovor" msprop:Generator_ColumnPropNameInRow="odgovor" msprop:Generator_ColumnPropNameInTable="odgovorColumn" msprop:Generator_UserColumnName="odgovor" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Asocijacija" msprop:Generator_TableClassName="AsocijacijaDataTable" msprop:Generator_TableVarName="tableAsocijacija" msprop:Generator_RowChangedName="AsocijacijaRowChanged" msprop:Generator_TablePropName="Asocijacija" msprop:Generator_RowDeletingName="AsocijacijaRowDeleting" msprop:Generator_RowChangingName="AsocijacijaRowChanging" msprop:Generator_RowEvHandlerName="AsocijacijaRowChangeEventHandler" msprop:Generator_RowDeletedName="AsocijacijaRowDeleted" msprop:Generator_RowClassName="AsocijacijaRow" msprop:Generator_UserTableName="Asocijacija" msprop:Generator_RowEvArgName="AsocijacijaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="rjesenje" msprop:Generator_ColumnVarNameInTable="columnrjesenje" msprop:Generator_ColumnPropNameInRow="rjesenje" msprop:Generator_ColumnPropNameInTable="rjesenjeColumn" msprop:Generator_UserColumnName="rjesenje" type="xs:string" minOccurs="0" />
+              <xs:element name="natuknica1" msprop:Generator_ColumnVarNameInTable="columnnatuknica1" msprop:Generator_ColumnPropNameInRow="natuknica1" msprop:Generator_ColumnPropNameInTable="natuknica1Column" msprop:Generator_UserColumnName="natuknica1" type="xs:string" minOccurs="0" />
+              <xs:element name="natuknica2" msprop:Generator_ColumnVarNameInTable="columnnatuknica2" msprop:Generator_ColumnPropNameInRow="natuknica2" msprop:Generator_ColumnPropNameInTable="natuknica2Column" msprop:Generator_UserColumnName="natuknica2" type="xs:string" minOccurs="0" />
+              <xs:element name="natuknica3" msprop:Generator_ColumnVarNameInTable="columnnatuknica3" msprop:Generator_ColumnPropNameInRow="natuknica3" msprop:Generator_ColumnPropNameInTable="natuknica3Column" msprop:Generator_UserColumnName="natuknica3" type="xs:string" minOccurs="0" />
+              <xs:element name="natuknica4" msprop:Generator_ColumnVarNameInTable="columnnatuknica4" msprop:Generator_ColumnPropNameInRow="natuknica4" msprop:Generator_ColumnPropNameInTable="natuknica4Column" msprop:Generator_UserColumnName="natuknica4" type="xs:string" minOccurs="0" />
+              <xs:element name="rezultat" msprop:Generator_ColumnVarNameInTable="columnrezultat" msprop:Generator_ColumnPropNameInRow="rezultat" msprop:Generator_ColumnPropNameInTable="rezultatColumn" msprop:Generator_UserColumnName="rezultat" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Detekcija" msprop:Generator_TableClassName="DetekcijaDataTable" msprop:Generator_TableVarName="tableDetekcija" msprop:Generator_RowChangedName="DetekcijaRowChanged" msprop:Generator_TablePropName="Detekcija" msprop:Generator_RowDeletingName="DetekcijaRowDeleting" msprop:Generator_RowChangingName="DetekcijaRowChanging" msprop:Generator_RowEvHandlerName="DetekcijaRowChangeEventHandler" msprop:Generator_RowDeletedName="DetekcijaRowDeleted" msprop:Generator_RowClassName="DetekcijaRow" msprop:Generator_UserTableName="Detekcija" msprop:Generator_RowEvArgName="DetekcijaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="osoba" msprop:Generator_ColumnVarNameInTable="columnosoba" msprop:Generator_ColumnPropNameInRow="osoba" msprop:Generator_ColumnPropNameInTable="osobaColumn" msprop:Generator_UserColumnName="osoba" type="xs:string" minOccurs="0" />
+              <xs:element name="pitanje" msprop:Generator_ColumnVarNameInTable="columnpitanje" msprop:Generator_ColumnPropNameInRow="pitanje" msprop:Generator_ColumnPropNameInTable="pitanjeColumn" msprop:Generator_UserColumnName="pitanje" type="xs:string" minOccurs="0" />
+              <xs:element name="odgovor1" msprop:Generator_ColumnVarNameInTable="columnodgovor1" msprop:Generator_ColumnPropNameInRow="odgovor1" msprop:Generator_ColumnPropNameInTable="odgovor1Column" msprop:Generator_UserColumnName="odgovor1" type="xs:string" minOccurs="0" />
+              <xs:element name="odgovor2" msprop:Generator_ColumnVarNameInTable="columnodgovor2" msprop:Generator_ColumnPropNameInRow="odgovor2" msprop:Generator_ColumnPropNameInTable="odgovor2Column" msprop:Generator_UserColumnName="odgovor2" type="xs:string" minOccurs="0" />
+              <xs:element name="odgovor3" msprop:Generator_ColumnVarNameInTable="columnodgovor3" msprop:Generator_ColumnPropNameInRow="odgovor3" msprop:Generator_ColumnPropNameInTable="odgovor3Column" msprop:Generator_UserColumnName="odgovor3" type="xs:string" minOccurs="0" />
+              <xs:element name="vrsta" msprop:Generator_ColumnVarNameInTable="columnvrsta" msprop:Generator_ColumnPropNameInRow="vrsta" msprop:Generator_ColumnPropNameInTable="vrstaColumn" msprop:Generator_UserColumnName="vrsta" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Zavrsna" msprop:Generator_TableClassName="ZavrsnaDataTable" msprop:Generator_TableVarName="tableZavrsna" msprop:Generator_RowChangedName="ZavrsnaRowChanged" msprop:Generator_TablePropName="Zavrsna" msprop:Generator_RowDeletingName="ZavrsnaRowDeleting" msprop:Generator_RowChangingName="ZavrsnaRowChanging" msprop:Generator_RowEvHandlerName="ZavrsnaRowChangeEventHandler" msprop:Generator_RowDeletedName="ZavrsnaRowDeleted" msprop:Generator_RowClassName="ZavrsnaRow" msprop:Generator_UserTableName="Zavrsna" msprop:Generator_RowEvArgName="ZavrsnaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="pitanje" msprop:Generator_ColumnVarNameInTable="columnpitanje" msprop:Generator_ColumnPropNameInRow="pitanje" msprop:Generator_ColumnPropNameInTable="pitanjeColumn" msprop:Generator_UserColumnName="pitanje" type="xs:string" minOccurs="0" />
+              <xs:element name="uputa" msprop:Generator_ColumnVarNameInTable="columnuputa" msprop:Generator_ColumnPropNameInRow="uputa" msprop:Generator_ColumnPropNameInTable="uputaColumn" msprop:Generator_UserColumnName="uputa" type="xs:string" minOccurs="0" />
+              <xs:element name="odgovor" msprop:Generator_ColumnVarNameInTable="columnodgovor" msprop:Generator_ColumnPropNameInRow="odgovor" msprop:Generator_ColumnPropNameInTable="odgovorColumn" msprop:Generator_UserColumnName="odgovor" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Bodovi" msprop:Generator_TableClassName="BodoviDataTable" msprop:Generator_TableVarName="tableBodovi" msprop:Generator_RowChangedName="BodoviRowChanged" msprop:Generator_TablePropName="Bodovi" msprop:Generator_RowDeletingName="BodoviRowDeleting" msprop:Generator_RowChangingName="BodoviRowChanging" msprop:Generator_RowEvHandlerName="BodoviRowChangeEventHandler" msprop:Generator_RowDeletedName="BodoviRowDeleted" msprop:Generator_RowClassName="BodoviRow" msprop:Generator_UserTableName="Bodovi" msprop:Generator_RowEvArgName="BodoviRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="ime" msprop:Generator_ColumnVarNameInTable="columnime" msprop:Generator_ColumnPropNameInRow="ime" msprop:Generator_ColumnPropNameInTable="imeColumn" msprop:Generator_UserColumnName="ime" type="xs:string" minOccurs="0" />
+              <xs:element name="ABCpitalica" msprop:Generator_ColumnVarNameInTable="columnABCpitalica" msprop:Generator_ColumnPropNameInRow="ABCpitalica" msprop:Generator_ColumnPropNameInTable="ABCpitalicaColumn" msprop:Generator_UserColumnName="ABCpitalica" type="xs:int" minOccurs="0" />
+              <xs:element name="asocijacija" msprop:Generator_ColumnVarNameInTable="columnasocijacija" msprop:Generator_ColumnPropNameInRow="asocijacija" msprop:Generator_ColumnPropNameInTable="asocijacijaColumn" msprop:Generator_UserColumnName="asocijacija" type="xs:int" minOccurs="0" />
+              <xs:element name="detekcija" msprop:Generator_ColumnVarNameInTable="columndetekcija" msprop:Generator_ColumnPropNameInRow="detekcija" msprop:Generator_ColumnPropNameInTable="detekcijaColumn" msprop:Generator_UserColumnName="detekcija" type="xs:int" minOccurs="0" />
+              <xs:element name="zavrsna" msprop:Generator_ColumnVarNameInTable="columnzavrsna" msprop:Generator_ColumnPropNameInRow="zavrsna" msprop:Generator_ColumnPropNameInTable="zavrsnaColumn" msprop:Generator_UserColumnName="zavrsna" type="xs:int" minOccurs="0" />
+              <xs:element name="ukupno" msprop:Generator_ColumnVarNameInTable="columnukupno" msprop:Generator_ColumnPropNameInRow="ukupno" msprop:Generator_ColumnPropNameInTable="ukupnoColumn" msprop:Generator_UserColumnName="ukupno" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Lozinka" msprop:Generator_TableClassName="LozinkaDataTable" msprop:Generator_TableVarName="tableLozinka" msprop:Generator_TablePropName="Lozinka" msprop:Generator_RowDeletingName="LozinkaRowDeleting" msprop:Generator_RowChangingName="LozinkaRowChanging" msprop:Generator_RowEvHandlerName="LozinkaRowChangeEventHandler" msprop:Generator_RowDeletedName="LozinkaRowDeleted" msprop:Generator_UserTableName="Lozinka" msprop:Generator_RowChangedName="LozinkaRowChanged" msprop:Generator_RowEvArgName="LozinkaRowChangeEvent" msprop:Generator_RowClassName="LozinkaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="lozinka" msprop:Generator_ColumnVarNameInTable="columnlozinka" msprop:Generator_ColumnPropNameInRow="lozinka" msprop:Generator_ColumnPropNameInTable="lozinkaColumn" msprop:Generator_UserColumnName="lozinka" type="xs:string" minOccurs="0" />
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DataTable1Key1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ABCpitalica" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="AsocijacijaKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Asocijacija" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="DetekcijaKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Detekcija" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="ZavrsnaKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Zavrsna" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Bodovi" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="Lozinka_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Lozinka" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
